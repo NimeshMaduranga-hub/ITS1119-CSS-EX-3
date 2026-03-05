@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916b8cc9-58d0-4175-8e8c-14c056dd2f95" name="Changes" comment="" />
+    <list default="true" id="916b8cc9-58d0-4175-8e8c-14c056dd2f95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Case_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/monkey.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,8 +39,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Quickcuttube/Desktop/layerd new project/ITS1119-CSS-EX-3/assests",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -34,6 +52,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Quickcuttube\Desktop\layerd new project\ITS1119-CSS-EX-3\assests" />
+      <recent name="C:\Users\Quickcuttube\Desktop\layerd new project\ITS1119-CSS-EX-3\Case_2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772681146788</updated>
-      <workItem from="1772681147912" duration="542000" />
+      <workItem from="1772681147912" duration="7216000" />
     </task>
     <servers />
   </component>
